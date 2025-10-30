@@ -1,7 +1,5 @@
-import Hello.py
-#import Hello
+#import hello_world.py
 
 
 
-number = random.randint(1, 10)
-print(number)
+
