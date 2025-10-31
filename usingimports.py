@@ -1,7 +1,9 @@
 import random
 #import hello_world.py
 
-num = random.randint(1, 10)
+number = random.randint(1, 10)
+
+
 
 print(number)
 
